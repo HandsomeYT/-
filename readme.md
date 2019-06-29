@@ -10,9 +10,9 @@
 
 ##### 用matplotlib画K线：
 
-![kline](img\kline.png)
+![kline](https://github.com/HandsomeYT/-/blob/master/img/kline.png)
 
 ##### 情感倾向曲线与股票价格曲线：（差好多的样子
 
-![compare](img\compare.png)
+![compare](https://github.com/HandsomeYT/-/blob/master/img/compare.png)
 
