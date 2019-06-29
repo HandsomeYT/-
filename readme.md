@@ -2,7 +2,7 @@
 
 ##### 爬评论：
 
-![1561798149002](img\1561798149002.png)
+![1561798149002](https://github.com/HandsomeYT/-/blob/master/img/1561798149002.png)
 
 <center>(你炒股像cxk)</center>
 
